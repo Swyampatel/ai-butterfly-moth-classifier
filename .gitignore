@@ -4,11 +4,6 @@ env/
 *.pyc
 __pycache__/
 
-# Model files
-*.h5
-*.pb
-model/
-
 # Data & Images
 dataset/
 *.csv
