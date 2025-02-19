@@ -66,6 +66,5 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For any inquiries, reach out to me on:
-- **GitHub:** [Swyampatel](https://github.com/Swyampatel)
 - **LinkedIn:** [linkedin.com/in/swyampatel](https://linkedin.com/in/swyampatel)
 
